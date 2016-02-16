@@ -1,0 +1,15 @@
+{
+    "name": "reverse_array",
+    "version": "0.0.1",
+    "repo": "nathanfaucett/c-reverse_array",
+    "description": "reverse array macros and a string reverse",
+    "keywords": ["types"],
+    "license": "MIT",
+    "src": [
+        "lib.h",
+        "lib.c"
+    ],
+    "dependencies": {
+        "nathanfaucett/c-types": "0.0.1"
+    }
+}
